@@ -24,11 +24,12 @@ The To-Do List project is a task management web application that empowers users 
 
 ### Installation
 
-- Clone the repository: ```git clone https://github.com/kalpitb210/to-do-list.git```
-- Install the dependencies: ```pip install -r requirements.txt```
+- **Clone the repository:** ```git clone https://github.com/kalpitb210/to-do-list.git```
+- **Go to directory:** ```cd .\to-do-list\```
+- **Install the dependencies:** ```pip install -r requirements.txt```
 
 
 ### Usage
 **Start the FastAPI server:** ```python manage.py runserver```
 
-- Open your web browser and go to http://localhost:8000 to access t0-do-list application. Use the provided interface to create, view, and edit and delete your list as per your choice.
+- Open your web browser and go to http://localhost:8000 to access to-do-list application. Use the provided interface to create, view, and edit and delete your list as per your choice.
